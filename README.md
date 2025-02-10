@@ -10,15 +10,15 @@ The Sales Analytics report focuses on the following key insights:
 1. **Customer Performance Report**:  
    - Evaluation of customer contributions to overall sales  
    - Identification of high-performing and underperforming customers
-   - View Report(
+   - **[View Report](https://github.com/vinny-104/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**
 2. **Market Performance vs Target Report**:  
    - Comparison of market performance against set targets  
    - Analysis of gaps between actual performance and targets
-   - View Report( 
+   - **[View Report](https://github.com/vinny-104/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)**
 3. **Top 5 and Bottom 5 Products**:  
    - Ranking products based on sales performance  
    - Identification of top-performing and least-performing products
-   - View Report(
+   - **[View Report](https://github.com/vinny-104/Excel-Sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20products.pdf)**
 
 ---
 
@@ -26,15 +26,15 @@ The Sales Analytics report focuses on the following key insights:
 The Financial Analytics report provides a detailed view of the company's financial performance:  
 1. **Profit & Loss (P&L) Statements**:  
    - Monthly P&L breakdown
-      -  _[View Report(
+      -  **[View Report](https://github.com/vinny-104/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)**
    - P&L analysis by market
-      -  View Report(
+      -  **[View Report](https://github.com/vinny-104/Excel-Sales-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf)**
    - P&l analysis by Fiscal Year
-      -  View Report(
+      -  **[View Report](https://github.com/vinny-104/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf)**
 2. **Gross Margin % by Quarters (Sept-Aug)**:  
    - Tracking and comparison of gross margin percentages across quarters  
    - Identification of trends and fluctuations in gross profitability
-   - View Report(
+   - **[View Report](https://github.com/vinny-104/Excel-Sales-Analytics/blob/main/GM%20%25%20by%20Quarters.pdf)**
 
 ---
 
